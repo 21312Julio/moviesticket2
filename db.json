@@ -1,114 +1,116 @@
-[
-    {
-        "title": "John Wick: Chapter 3 - Parabellum",
-        "year": 2019,
-        "director": "Chad Stahelski",
-        "cast": "Keanu Reeves, Halle Berry, Ian McShane",
-        "genre": "Action, Crime, Thriller",
-        "production": "Lionsgate",
-        "id": 100,
-        "notes": "In this third installment of the adrenaline-fueled action franchise, skilled assassin John Wick (Keanu Reeves) returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin's guild, the High Table, John Wick is excommunicado, but the world's most ruthless hit men and women await his every turn.",
-        "mpaa": "Rated R for pervasive strong violence, and some language.",
-        "runningTimes": {
-            "mon": [
-                "15:30",
-                "20:50"
-            ],
-            "tue": [
-                "12:30",
-                "17:50",
-                "20:50"
-            ],
-            "wed": [
-                "19:20",
-                "20:45"
-            ],
-            "sat": [
-                "16:50",
-                "19:10"
-            ],
-            "sun": [
-                "10:15",
-                "12:50",
-                "15:30",
-                "18:10"
-            ]
+{
+    "movies": [
+        {
+            "title": "John Wick: Chapter 3 - Parabellum",
+            "year": 2019,
+            "director": "Chad Stahelski",
+            "cast": "Keanu Reeves, Halle Berry, Ian McShane",
+            "genre": "Action, Crime, Thriller",
+            "production": "Lionsgate",
+            "id": 100,
+            "notes": "In this third installment of the adrenaline-fueled action franchise, skilled assassin John Wick (Keanu Reeves) returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin's guild, the High Table, John Wick is excommunicado, but the world's most ruthless hit men and women await his every turn.",
+            "mpaa": "Rated R for pervasive strong violence, and some language.",
+            "runningTimes": {
+                "mon": [
+                    "15:30",
+                    "20:50"
+                ],
+                "tue": [
+                    "12:30",
+                    "17:50",
+                    "20:50"
+                ],
+                "wed": [
+                    "19:20",
+                    "20:45"
+                ],
+                "sat": [
+                    "16:50",
+                    "19:10"
+                ],
+                "sun": [
+                    "10:15",
+                    "12:50",
+                    "15:30",
+                    "18:10"
+                ]
+            }
+        },
+        {
+            "title": "Venom: Let There Be Carnage",
+            "year": 2021,
+            "director": "Andy Serkis",
+            "cast": "Tom Hardy, Woody Harrelson, Michelle Williams",
+            "genre": "Action, Adventure, Sci-Fi, Thriller",
+            "production": "Columbia Pictures",
+            "id": 101,
+            "notes": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
+            "mpaa": "Rated PG-13 for intense sequences of violence and action, some strong language, disturbing material and suggestive references.",
+            "runningTimes": {
+                "mon": [
+                    "17:45",
+                    "20:30"
+                ],
+                "tue": [
+                    "15:30",
+                    "17:45",
+                    "21:50"
+                ],
+                "wed": [
+                    "19:20"
+                ],
+                "fri": [
+                    "11:15",
+                    "16:50",
+                    "21:45"
+                ],
+                "sat": [
+                    "11:20",
+                    "19:10"
+                ],
+                "sun": [
+                    "11:50",
+                    "13:20",
+                    "16:50",
+                    "20:30",
+                    "22:10"
+                ]
+            }
+        },
+        {
+            "title": "Us",
+            "year": 2019,
+            "director": "Jordan Peele",
+            "cast": "Lupita Nyong'o, Winston Duke, Elisabeth Moss",
+            "genre": "Horror, Mystery, Thriller",
+            "production": "Blumhouse Productions, Monkeypaw Productions",
+            "id": 102,
+            "notes": "A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.",
+            "mpaa": "Rated R for violence/terror, and language.",
+            "runningTimes": {
+                "mon": [
+                    "20:10"
+                ],
+                "tue": [
+                    "14:45",
+                    "20:45"
+                ],
+                "fri": [
+                    "17:45",
+                    "20:30",
+                    "22:15"
+                ],
+                "sat": [
+                    "17:50",
+                    "21:10"
+                ],
+                "sun": [
+                    "17:10",
+                    "19:30",
+                    "21:50",
+                    "22:15"
+                ]
+            }
         }
-    },
-    {
-        "title": "Venom: Let There Be Carnage",
-        "year": 2021,
-        "director": "Andy Serkis",
-        "cast": "Tom Hardy, Woody Harrelson, Michelle Williams",
-        "genre": "Action, Adventure, Sci-Fi, Thriller",
-        "production": "Columbia Pictures",
-        "id": 101,
-        "notes": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
-        "mpaa": "Rated PG-13 for intense sequences of violence and action, some strong language, disturbing material and suggestive references.",
-        "runningTimes": {
-            "mon": [
-                "17:45",
-                "20:30"
-            ],
-            "tue": [
-                "15:30",
-                "17:45",
-                "21:50"
-            ],
-            "wed": [
-                "19:20"
-            ],
-            "fri": [
-                "11:15",
-                "16:50",
-                "21:45"
-            ],
-            "sat": [
-                "11:20",
-                "19:10"
-            ],
-            "sun": [
-                "11:50",
-                "13:20",
-                "16:50",
-                "20:30",
-                "22:10"
-            ]
-        }
-    },
-    {
-        "title": "Us",
-        "year": 2019,
-        "director": "Jordan Peele",
-        "cast": "Lupita Nyong'o, Winston Duke, Elisabeth Moss",
-        "genre": "Horror, Mystery, Thriller",
-        "production": "Blumhouse Productions, Monkeypaw Productions",
-        "id": 102,
-        "notes": "A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.",
-        "mpaa": "Rated R for violence/terror, and language.",
-        "runningTimes": {
-            "mon": [
-                "20:10"
-            ],
-            "tue": [
-                "14:45",
-                "20:45"
-            ],
-            "fri": [
-                "17:45",
-                "20:30",
-                "22:15"
-            ],
-            "sat": [
-                "17:50",
-                "21:10"
-            ],
-            "sun": [
-                "17:10",
-                "19:30",
-                "21:50",
-                "22:15"
-            ]
-        }
-    }
-]
+    ]    
+}
