@@ -2,6 +2,7 @@
     "movies": [
         {
             "title": "John Wick: Chapter 3 - Parabellum",
+            "thumbnail": "https:/musicart.xboxlive.com/7/df1a5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
             "year": 2019,
             "director": "Chad Stahelski",
             "cast": "Keanu Reeves, Halle Berry, Ian McShane",
@@ -38,6 +39,7 @@
         },
         {
             "title": "Venom: Let There Be Carnage",
+            "thumbnail": "https:/www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/venomltbc_onesheet_1400x2100_est.jpg?itok=SsAno7TI",
             "year": 2021,
             "director": "Andy Serkis",
             "cast": "Tom Hardy, Woody Harrelson, Michelle Williams",
@@ -79,6 +81,7 @@
         },
         {
             "title": "Us",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
             "year": 2019,
             "director": "Jordan Peele",
             "cast": "Lupita Nyong'o, Winston Duke, Elisabeth Moss",
