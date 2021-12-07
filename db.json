@@ -35,7 +35,8 @@
                     "15:30",
                     "18:10"
                 ]
-            }
+            },
+            "todayHours": {}
         },
         {
             "title": "Venom: Let There Be Carnage",
@@ -77,7 +78,8 @@
                     "20:30",
                     "22:10"
                 ]
-            }
+            },
+            "todayHours": {}
         },
         {
             "title": "Us",
@@ -113,7 +115,8 @@
                     "21:50",
                     "22:15"
                 ]
-            }
+            },
+            "todayHours": {}
         }
     ]    
 }
