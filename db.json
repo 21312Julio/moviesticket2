@@ -11,6 +11,7 @@
             "id": 100,
             "notes": "In this third installment of the adrenaline-fueled action franchise, skilled assassin John Wick (Keanu Reeves) returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail.",
             "mpaa": "Rated R for pervasive strong violence, and some language.",
+            "todayHours": [],
             "runningTimes": {
                 "Mon": [
                     "15:30",
@@ -35,8 +36,7 @@
                     "15:30",
                     "18:10"
                 ]
-            },
-            "todayHours": {}
+            }
         },
         {
             "title": "Venom: Let There Be Carnage",
@@ -49,6 +49,7 @@
             "id": 101,
             "notes": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
             "mpaa": "Rated PG-13 for intense sequences of violence and action, some strong language, disturbing material and suggestive references.",
+            "todayHours": [],
             "runningTimes": {
                 "Mon": [
                     "17:45",
@@ -78,8 +79,7 @@
                     "20:30",
                     "22:10"
                 ]
-            },
-            "todayHours": {}
+            }
         },
         {
             "title": "Us",
@@ -92,6 +92,7 @@
             "id": 102,
             "notes": "A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.",
             "mpaa": "Rated R for violence/terror, and language.",
+            "todayHours": [],
             "runningTimes": {
                 "Mon": [
                     "20:10"
@@ -115,8 +116,7 @@
                     "21:50",
                     "22:15"
                 ]
-            },
-            "todayHours": {}
+            }
         }
     ]    
 }
